@@ -1,0 +1,11 @@
+# Only "Final Progress" is tracked; everything else in this folder stays local
+/*
+!/.gitignore
+!/Final Progress/
+
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.~lock.*
+~$*
+.DS_Store
