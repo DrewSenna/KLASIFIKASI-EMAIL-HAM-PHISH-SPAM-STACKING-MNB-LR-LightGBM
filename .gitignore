@@ -2,6 +2,10 @@
 /*
 !/.gitignore
 !/Final Progress/
+# Notebooks live at the root; the two old pre-M03 notebooks stay local only
+!/*.ipynb
+/Challenge_Naive_Bayes_Without_Library.ipynb
+/Group_1_Email_Spam_Detection.ipynb
 
 __pycache__/
 *.pyc
